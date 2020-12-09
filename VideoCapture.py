@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import cv2
 import winsound
 frequency = 2500 
@@ -14,12 +13,13 @@ while(True):
     plate = extraction(frame)
     try:
         text = ocr(plate)
+        text = ''.join(e for e in text if e.isalnum())
     except:
         continue
         
     if text != '':
         print(text,end=" ")
-        if check_if_string_in_file(r'C:\Users\sonia\Desktop\AutomaticNumberPlateRecognition\Database\Database.txt', text) and text != "":
+        if check_if_string_in_file('./Database/Database.txt', text):
             print('Registered')
             winsound.Beep(frequency, duration)
         else:

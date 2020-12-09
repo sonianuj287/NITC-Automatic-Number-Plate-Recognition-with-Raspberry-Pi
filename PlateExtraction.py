@@ -35,5 +35,5 @@ def extraction(image):
             x,y,w,h = cv2.boundingRect(c)
             plate = image[y:y+h, x:x+w]
             break
-#     plot_images(plate, plate)
+    #plot_images(plate, plate)
     return plate
