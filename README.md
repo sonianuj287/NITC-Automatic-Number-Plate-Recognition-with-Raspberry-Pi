@@ -22,12 +22,12 @@ Our project will help in:
 Youtube Link - https://www.youtube.com/watch?v=rBKnR693Sto&feature=youtu.be&ab_channel=AnujSoni
 </br>
 <p>
-<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/ImageReg.jpg" width="500" height="350">
-<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/ImageNReg.jpg" width="500" height="350">
-<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/VideoReg.jpg" width="500" height="350">
-<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/VideoNReg.jpg" width="500" height="350">
-<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/CameraModule.jpeg" width="500" height="350">
-<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/RaspberryPi.jpeg" width="500" height="350">
+<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/ImageReg.jpg" width="400" height="250">
+<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/ImageNReg.jpg" width="400" height="250">
+<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/VideoReg.jpg" width="400" height="250">
+<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/VideoNReg.jpg" width="400" height="250">
+<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/CameraModule.jpeg" width="400" height="250">
+<img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/RaspberryPi.jpeg" width="400" height="250">
 <p align="center">
 <img src="https://github.com/sonianuj287/Automatic-Number-Plate-Recognition-with-Raspberry-Pi/blob/master/Documents/setup.jpeg" width="700" height="450" align="center">
 </p>
